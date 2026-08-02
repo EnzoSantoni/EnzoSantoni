@@ -20,7 +20,7 @@ Frontend developer building real web apps with React. Currently studying Full St
 
 Real-time weather app built with React. Dynamic season and day/night backgrounds, animated weather icons, canvas-based rain particles, city compare view with Haversine distance calculation, and scroll-triggered countup animations.
 
-`React` `Vite` `OpenWeatherMap API` `tsParticles` `Canvas API` `CSS Animations`
+`React` `Vite` `OpenWeatherMap API` `tsParticles` `CSS Animations`
 
 ---
 
