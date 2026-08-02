@@ -1,37 +1,35 @@
-# Hi, I'm Enzo 👋
+## Hey, I'm Enzo
 
-I'm a Frontend Developer focused on building interactive web interfaces and useful tools with JavaScript.
+Frontend developer building real web apps with React. Currently studying Full Stack Development.
 
-Currently I'm studying Full Stack Development and expanding my knowledge in modern web technologies.
+---
 
-I enjoy creating JS tools and web applications that solve real problems.
+## Tech Stack
 
-## Technologies I'm working with
+**Languages** — JavaScript, HTML, CSS  
+**Frontend** — React, Vite  
+**Styling** — CSS custom properties, animations, responsive design  
+**Tools** — Git, GitHub, REST APIs  
+**Learning** — Node.js, TypeScript
 
-HTML | CSS | JavaScript | Git | GitHub | Bootstrap
-
-I'm currently improving my skills in JavaScript logic, DOM manipulation and APIs.
-
-## Current goal
-
-My goal right now is to gain real experience working on web development projects and continue growing as a Full Stack developer.
+---
 
 ## Projects
 
-Here are some of the projects I've built while learning web development.
+### [Confy Weather](https://wheater-enzo.netlify.app) · [repo](https://github.com/EnzoSantoni/confy-weather-app)
 
-### Food Business Landing Page
-- Responsive landing page for a small food business with product sections and WhatsApp ordering.
+Real-time weather app built with React. Dynamic season and day/night backgrounds, animated weather icons, canvas-based rain particles, city compare view with Haversine distance calculation, and scroll-triggered countup animations.
 
-### Health Landing Page
-- Mobile-first landing page designed for a social media service business.
+`React` `Vite` `OpenWeatherMap API` `tsParticles` `Canvas API` `CSS Animations`
 
-### User Dashboard (in progress)
-- Interactive dashboard to manage users with search, filters and dynamic updates using JavaScript.
+---
+
+I've also built and delivered two landing pages for real clients — a food business and a medical coverage service.
+
+---
 
 ## Contact
 
-I'm always open to connect with other developers or discuss opportunities.
 
-- LinkedIn: https://www.linkedin.com/in/enzo-santoni-757848222/
-- Email: enzo.santoni@gmail.com
+[LinkedIn](https://www.linkedin.com/in/enzo-santoni-757848222/) · [enzo.santoni.it@gmail.com](mailto:enzo.santoni.it@gmail.com)
+
