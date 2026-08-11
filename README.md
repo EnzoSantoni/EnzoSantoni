@@ -16,7 +16,7 @@ Frontend developer building real web apps with React. Currently studying Full St
 
 ## Projects
 
-### [Confy Weather](https://confy-weather-app.netlify.app) · [repo](https://github.com/EnzoSantoni/confy-weather-app)
+### [Confy Weather](https://confy-weather-app.netlify.app) · [Repo](https://github.com/EnzoSantoni/confy-weather-app)
 
 Real-time weather app built with React. Dynamic season and day/night backgrounds, animated weather icons, canvas-based rain particles, city compare view with Haversine distance calculation, and scroll-triggered countup animations.
 
