@@ -31,5 +31,5 @@ I've also built and delivered two landing pages for real clients — a food busi
 ## Contact
 
 
-[LinkedIn](https://www.linkedin.com/in/enzo-santoni-757848222/) · [enzo.santoni.it@gmail.com](mailto:enzo.santoni.it@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/enzo-santoni-757848222/) · [santoni.enzo.it@gmail.com](mailto:santoni.enzo.it@gmail.com)
 
